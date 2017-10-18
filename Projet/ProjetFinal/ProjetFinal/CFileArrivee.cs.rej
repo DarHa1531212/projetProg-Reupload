@@ -1,0 +1,10 @@
+diff a/Projet/ProjetFinal/ProjetFinal/CFileArrivee.cs b/Projet/ProjetFinal/ProjetFinal/CFileArrivee.cs	(rejected hunks)
+@@ -45,7 +45,7 @@
+             else
+             {
+                 ArriveAncre = Vaisseaux._Suivant;  //enlever un élement
+-                Vaisseaux._Suivant = null;
++            //    Vaisseaux._Suivant = null;
+             }
+         }
+     }
